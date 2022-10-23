@@ -27,20 +27,20 @@ export const categories =[
         id:1,
         img:"/img/grey1n.jpg",
         title:'SHIRT STYLE',
-        cat:"women"
+        cat:"man"
     },
     {
         id:2,
         img:"/img/loung1n.jpg",
         title:'LOUNGEWEAR LOVE',
-        cat:"coats"
+        cat:"man"
 
     },
     {
         id:3,
         img:"/img/red1.jpg",
         title:'FASION WEAR',
-        cat:"jeans"
+        cat:"man"
 
     },
 ];
